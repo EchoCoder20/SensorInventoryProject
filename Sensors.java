@@ -1,16 +1,8 @@
-public class Sensors {
-    private Integer id;
+public class Sensors extends BaseEntity{
     private String name;
     private Float price;
     private Integer quantity;
 
-    public Integer getId() {
-        return id;
-    }
-
-    public void setId(Integer id) {
-        this.id = id;
-    }
 
     public String getName() {
         return name;

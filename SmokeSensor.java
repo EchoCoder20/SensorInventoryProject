@@ -1,4 +1,4 @@
-public class SmokeSensor {
+public class SmokeSensor extends Sensors {
     private Double smokeDetectionRange;
     private String sensitivityLevel;
 
