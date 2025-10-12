@@ -1,4 +1,4 @@
-public class WaterSensor {
+public class WaterSensor extends Sensors {
     private Double accuracy;
     private Double responceTime;
 

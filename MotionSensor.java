@@ -1,4 +1,4 @@
-public class MotionSensor {
+public class MotionSensor extends Sensors {
     private Double detectionAngle;
     private String sensorType;
 
